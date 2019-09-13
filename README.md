@@ -1,5 +1,5 @@
 # Array-Play
-Implementing multiple functions with arrays.
+Implementing functions with arrays:
 
 `int locateMinimum( const string array[ ], int n )`
 * locates the minimum value in the array by lexicographic order
