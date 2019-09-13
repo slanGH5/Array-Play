@@ -1,11 +1,3 @@
-//
-//  array.cpp
-//  Project 4
-//
-//  Created by Jessica Chen on 7/18/19.
-//  Copyright © 2019 Jessica Chen. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <cassert>
